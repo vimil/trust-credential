@@ -1,0 +1,7 @@
+<?jelly escape-by-default='true'?>
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  This plugin adds Trust Credentials to allow access to https sites that have certificates that are not trusted by default
+</div>
